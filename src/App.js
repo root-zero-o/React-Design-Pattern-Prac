@@ -1,7 +1,7 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
 import Home from "./pages/home";
-import Compound from "./pages/compound-components-pattern";
+import Compound from "./patterns/compound-component/compound-components-pattern";
 
 function App() {
   return (
